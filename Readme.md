@@ -11,3 +11,4 @@
 <p>-Em seguida utilize o comando: python manage.py migrate para preparar a aplicação para trabalhar com o SQLite.</p>
 <p>-Suba a aplicação executando o: python manage.py runserver. </p>
 <p>-Pronto! Agora é só acessar o servidor: http://localhost:8000. </p>
+
