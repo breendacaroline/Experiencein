@@ -9,7 +9,13 @@
           <abbr title="Telefone">Tel:</abbr> {{perfil.telefone}}<br>
           <a href="mailto:{{perfil.email}}">{{perfil.email}}</a>
         </address>
+
+    {% if ja_e_contato %}
+      <div class="well well-sm">Vocês já estão conectados :)</div>
+    {% else %}
         <a href="{% url 'convidar' perfil.id %}">convidar</a>
+    {% endif %}
+
     </div>
 </div>
 {% endblock %}
