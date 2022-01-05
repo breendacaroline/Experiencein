@@ -1,11 +1,11 @@
 <h1>Experiencein</h1>
-<h3>Descriçã</h3>
+<h3>Descrição:</h3>
 <p>Esse projeto corresponde a uma rede social desenvolvida na disciplina de Programação para Internet II, utilizando o framework Django.</p>
 
 <h3>Pré-Requisitos:</h3>
 <p>Para iniciar o projeto você vai precisar instalar na sua máquina o Django na versão 2.2, o Pyhton a partir da versão 3.7, e uma IDE, como o VSCode. </p>
 
-<h3> 🛠 Tecnologias </h3>
+<h3> 🛠 Tecnologias: </h3>
   
 <p> Foram utilizadas as seguintes ferramentas na construção do projeto: </p>
 <p> -Django 2.2. </p>
@@ -20,7 +20,7 @@
 <p>-Suba a aplicação executando o: python manage.py runserver. </p>
 <p>-Pronto! Agora é só acessar o servidor: http://localhost:8000. </p>
 
-<h3> Status</h3>
+<h3> Status:</h3>
 <p> 🚧 Projeto em construção...  🚧 </p>
 
 
