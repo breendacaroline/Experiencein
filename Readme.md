@@ -8,9 +8,9 @@
 <h3> 🛠 Tecnologias </h3>
   
 <p> Foram utilizadas as seguintes ferramentas na construção do projeto: </p>
-<p> -Django 2.2 </p>
-<p> -Python 3.7 </p>
-<p> -Bootstrap 3.0 </p>
+<p> -Django 2.2. </p>
+<p> -Python 3.7. </p>
+<p> -Bootstrap 3.0. </p>
 
 
 <h3>Como executar:</h3>
@@ -20,6 +20,9 @@
 <p>-Suba a aplicação executando o: python manage.py runserver. </p>
 <p>-Pronto! Agora é só acessar o servidor: http://localhost:8000. </p>
 
+<h3 Status:> 
+	🚧 Projeto em construção...  🚧
+</h3>
 
 <h4>Link da aplicação online: </h4> 
 <p>BrendaCaroline.pythonanywhere.com</p>
