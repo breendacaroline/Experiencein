@@ -1,5 +1,5 @@
 <h1>Experiencein</h1>
-<h3>Descrição</h3>
+<h3>Descriçã</h3>
 <p>Esse projeto corresponde a uma rede social desenvolvida na disciplina de Programação para Internet II, utilizando o framework Django.</p>
 
 <h3>Pré-Requisitos:</h3>
@@ -20,9 +20,9 @@
 <p>-Suba a aplicação executando o: python manage.py runserver. </p>
 <p>-Pronto! Agora é só acessar o servidor: http://localhost:8000. </p>
 
-<h3 Status:> 
-	🚧 Projeto em construção...  🚧
-</h3>
+<h3> Status</h3>
+<p> 🚧 Projeto em construção...  🚧 </p>
 
-<h4>Link da aplicação online: </h4> 
+
+<h3>Link da aplicação online: </h3> 
 <p>BrendaCaroline.pythonanywhere.com</p>
