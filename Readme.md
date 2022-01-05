@@ -20,4 +20,5 @@
 <p>-Suba a aplicação executando o: python manage.py runserver. </p>
 <p>-Pronto! Agora é só acessar o servidor: http://localhost:8000. </p>
 
-<p>Link da aplicação online: BrendaCaroline.pythonanywhere.com</p>
+
+<h4>Link da aplicação online: BrendaCaroline.pythonanywhere.com</h4>
